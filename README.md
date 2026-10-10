@@ -1,2 +1,2 @@
 # chapt3_ws
-ros2 example topic
+Ros2的示例话题
